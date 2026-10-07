@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RSTechAppTest.Tests/RSTechAppTest.Tests.csproj" />
+  <Project Path="RSTechAppTest/RSTechAppTest.Desktop.csproj" />
+</Solution>
